@@ -180,13 +180,3 @@ print("30 - time1 with __rsub__() and type dispatch:", 30 - time1)
 print()
 time1.increment(300)
 print("time1 after incrementing by 300: ", time1)
-
-
-# time3 = Time(hour=3, second=22)
-# time3.print_time()
-
-# time4 = Time(minute=22)
-# time4.print_time()
-
-# time5 = Time(second=9999)
-# time5.print_time()
